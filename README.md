@@ -1,16 +1,11 @@
-# my_app
+# Insecure_Application
+정보보안 Option B 과제 프로젝트
 
 A new Flutter project.
 
-## Getting Started
+## 구현 보안 취약점
+* 안전하지 않은 Content Provider
+* 취약한 Http 통신
+* Local Storage 취약점
+* 잘못된 권한 설정 취약점 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
